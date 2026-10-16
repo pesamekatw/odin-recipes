@@ -1,0 +1,28 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color:antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    display: block;
+}
+
+li{
+    padding: 12px;
+}
+
+a{
+    color: black;
+}
+
+.home{
+    margin: 0 auto;
+    text-align: center;
+}
